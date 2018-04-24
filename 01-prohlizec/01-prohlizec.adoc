@@ -1,4 +1,4 @@
-= Plocha, prohlížeč a práce s webem
+= 1. lekce: Plocha, prohlížeč a práce s webem
 //:numbered:
 :icons: font
 :lang: cs
